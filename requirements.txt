@@ -4,7 +4,8 @@ langchain
 langchain-google-genai
 langchain-chroma
 langchain-community
-langchain_huggingface
+langchain-huggingface
 python-dotenv
 pypdf
 chromadb
+sentence-transformers
